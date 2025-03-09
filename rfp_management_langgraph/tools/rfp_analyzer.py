@@ -4,7 +4,7 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
-from crewai.tools import tool
+from langchain_core.tools import tool
 
 # Load environment variables (ensure OPENAI_API_KEY is set)
 load_dotenv()

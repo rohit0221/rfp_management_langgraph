@@ -1,0 +1,126 @@
+Supplier,Year,Service,Price ($)
+Supplier A,2020,Cloud Storage,90556
+Supplier A,2020,Compute Instances,114723
+Supplier A,2020,AI-Powered Analytics,127175
+Supplier A,2020,Security & Compliance,101900
+Supplier A,2020,Hybrid Cloud Management,111941
+Supplier B,2020,Cloud Storage,87605
+Supplier B,2020,Compute Instances,100664
+Supplier B,2020,AI-Powered Analytics,129591
+Supplier B,2020,Security & Compliance,101936
+Supplier B,2020,Hybrid Cloud Management,121464
+Supplier C,2020,Cloud Storage,85777
+Supplier C,2020,Compute Instances,115026
+Supplier C,2020,AI-Powered Analytics,128983
+Supplier C,2020,Security & Compliance,96221
+Supplier C,2020,Hybrid Cloud Management,112386
+Supplier D,2020,Cloud Storage,87975
+Supplier D,2020,Compute Instances,104541
+Supplier D,2020,AI-Powered Analytics,123445
+Supplier D,2020,Security & Compliance,99449
+Supplier D,2020,Hybrid Cloud Management,114273
+Supplier E,2020,Cloud Storage,93760
+Supplier E,2020,Compute Instances,101947
+Supplier E,2020,AI-Powered Analytics,119258
+Supplier E,2020,Security & Compliance,98485
+Supplier E,2020,Hybrid Cloud Management,117117
+Supplier A,2021,Cloud Storage,98021
+Supplier A,2021,Compute Instances,104952
+Supplier A,2021,AI-Powered Analytics,125721
+Supplier A,2021,Security & Compliance,103844
+Supplier A,2021,Hybrid Cloud Management,112252
+Supplier B,2021,Cloud Storage,95575
+Supplier B,2021,Compute Instances,104484
+Supplier B,2021,AI-Powered Analytics,117474
+Supplier B,2021,Security & Compliance,109189
+Supplier B,2021,Hybrid Cloud Management,128425
+Supplier C,2021,Cloud Storage,98341
+Supplier C,2021,Compute Instances,106638
+Supplier C,2021,AI-Powered Analytics,118073
+Supplier C,2021,Security & Compliance,105221
+Supplier C,2021,Hybrid Cloud Management,119179
+Supplier D,2021,Cloud Storage,88890
+Supplier D,2021,Compute Instances,109700
+Supplier D,2021,AI-Powered Analytics,116911
+Supplier D,2021,Security & Compliance,108596
+Supplier D,2021,Hybrid Cloud Management,115988
+Supplier E,2021,Cloud Storage,96332
+Supplier E,2021,Compute Instances,106752
+Supplier E,2021,AI-Powered Analytics,125828
+Supplier E,2021,Security & Compliance,103159
+Supplier E,2021,Hybrid Cloud Management,114687
+Supplier A,2022,Cloud Storage,102532
+Supplier A,2022,Compute Instances,116436
+Supplier A,2022,AI-Powered Analytics,136147
+Supplier A,2022,Security & Compliance,110504
+Supplier A,2022,Hybrid Cloud Management,124346
+Supplier B,2022,Cloud Storage,101863
+Supplier B,2022,Compute Instances,105189
+Supplier B,2022,AI-Powered Analytics,122228
+Supplier B,2022,Security & Compliance,97515
+Supplier B,2022,Hybrid Cloud Management,119456
+Supplier C,2022,Cloud Storage,94377
+Supplier C,2022,Compute Instances,108184
+Supplier C,2022,AI-Powered Analytics,134073
+Supplier C,2022,Security & Compliance,102278
+Supplier C,2022,Hybrid Cloud Management,118659
+Supplier D,2022,Cloud Storage,96539
+Supplier D,2022,Compute Instances,106048
+Supplier D,2022,AI-Powered Analytics,133577
+Supplier D,2022,Security & Compliance,97963
+Supplier D,2022,Hybrid Cloud Management,131324
+Supplier E,2022,Cloud Storage,99762
+Supplier E,2022,Compute Instances,106994
+Supplier E,2022,AI-Powered Analytics,118663
+Supplier E,2022,Security & Compliance,109290
+Supplier E,2022,Hybrid Cloud Management,126301
+Supplier A,2023,Cloud Storage,101062
+Supplier A,2023,Compute Instances,118611
+Supplier A,2023,AI-Powered Analytics,122252
+Supplier A,2023,Security & Compliance,104271
+Supplier A,2023,Hybrid Cloud Management,117923
+Supplier B,2023,Cloud Storage,102981
+Supplier B,2023,Compute Instances,116140
+Supplier B,2023,AI-Powered Analytics,127153
+Supplier B,2023,Security & Compliance,99676
+Supplier B,2023,Hybrid Cloud Management,121491
+Supplier C,2023,Cloud Storage,95283
+Supplier C,2023,Compute Instances,117915
+Supplier C,2023,AI-Powered Analytics,133004
+Supplier C,2023,Security & Compliance,112510
+Supplier C,2023,Hybrid Cloud Management,124439
+Supplier D,2023,Cloud Storage,92341
+Supplier D,2023,Compute Instances,117642
+Supplier D,2023,AI-Powered Analytics,135355
+Supplier D,2023,Security & Compliance,107431
+Supplier D,2023,Hybrid Cloud Management,129902
+Supplier E,2023,Cloud Storage,97696
+Supplier E,2023,Compute Instances,114462
+Supplier E,2023,AI-Powered Analytics,128997
+Supplier E,2023,Security & Compliance,99082
+Supplier E,2023,Hybrid Cloud Management,117777
+Supplier A,2024,Cloud Storage,92798
+Supplier A,2024,Compute Instances,118555
+Supplier A,2024,AI-Powered Analytics,129231
+Supplier A,2024,Security & Compliance,108622
+Supplier A,2024,Hybrid Cloud Management,134897
+Supplier B,2024,Cloud Storage,95974
+Supplier B,2024,Compute Instances,114710
+Supplier B,2024,AI-Powered Analytics,137807
+Supplier B,2024,Security & Compliance,104180
+Supplier B,2024,Hybrid Cloud Management,119424
+Supplier C,2024,Cloud Storage,96564
+Supplier C,2024,Compute Instances,110472
+Supplier C,2024,AI-Powered Analytics,141193
+Supplier C,2024,Security & Compliance,113377
+Supplier C,2024,Hybrid Cloud Management,129790
+Supplier D,2024,Cloud Storage,105045
+Supplier D,2024,Compute Instances,121400
+Supplier D,2024,AI-Powered Analytics,126746
+Supplier D,2024,Security & Compliance,114718
+Supplier D,2024,Hybrid Cloud Management,128037
+Supplier E,2024,Cloud Storage,104112
+Supplier E,2024,Compute Instances,122972
+Supplier E,2024,AI-Powered Analytics,129301
+Supplier E,2024,Security & Compliance,102295
+Supplier E,2024,Hybrid Cloud Management,122236

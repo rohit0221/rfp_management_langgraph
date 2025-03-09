@@ -1,0 +1,81 @@
+Year,Quarter,Service,Demand,Supply
+2021,Q1,Cloud Storage,514,540
+2021,Q1,Compute Instances,463,482
+2021,Q1,AI-Powered Analytics,315,273
+2021,Q1,Security & Compliance,261,307
+2021,Q1,Hybrid Cloud Management,299,292
+2021,Q2,Cloud Storage,486,494
+2021,Q2,Compute Instances,398,443
+2021,Q2,AI-Powered Analytics,320,321
+2021,Q2,Security & Compliance,252,259
+2021,Q2,Hybrid Cloud Management,380,368
+2021,Q3,Cloud Storage,524,529
+2021,Q3,Compute Instances,364,315
+2021,Q3,AI-Powered Analytics,315,318
+2021,Q3,Security & Compliance,227,272
+2021,Q3,Hybrid Cloud Management,375,343
+2021,Q4,Cloud Storage,552,554
+2021,Q4,Compute Instances,418,399
+2021,Q4,AI-Powered Analytics,319,336
+2021,Q4,Security & Compliance,231,236
+2021,Q4,Hybrid Cloud Management,310,297
+2022,Q1,Cloud Storage,512,559
+2022,Q1,Compute Instances,442,402
+2022,Q1,AI-Powered Analytics,348,313
+2022,Q1,Security & Compliance,291,299
+2022,Q1,Hybrid Cloud Management,310,352
+2022,Q2,Cloud Storage,587,595
+2022,Q2,Compute Instances,392,431
+2022,Q2,AI-Powered Analytics,320,288
+2022,Q2,Security & Compliance,254,274
+2022,Q2,Hybrid Cloud Management,309,291
+2022,Q3,Cloud Storage,517,505
+2022,Q3,Compute Instances,479,429
+2022,Q3,AI-Powered Analytics,335,341
+2022,Q3,Security & Compliance,237,209
+2022,Q3,Hybrid Cloud Management,345,336
+2022,Q4,Cloud Storage,496,461
+2022,Q4,Compute Instances,464,473
+2022,Q4,AI-Powered Analytics,297,247
+2022,Q4,Security & Compliance,235,196
+2022,Q4,Hybrid Cloud Management,346,327
+2023,Q1,Cloud Storage,561,519
+2023,Q1,Compute Instances,405,373
+2023,Q1,AI-Powered Analytics,345,297
+2023,Q1,Security & Compliance,297,300
+2023,Q1,Hybrid Cloud Management,373,346
+2023,Q2,Cloud Storage,594,615
+2023,Q2,Compute Instances,467,500
+2023,Q2,AI-Powered Analytics,331,369
+2023,Q2,Security & Compliance,283,325
+2023,Q2,Hybrid Cloud Management,324,355
+2023,Q3,Cloud Storage,538,522
+2023,Q3,Compute Instances,451,441
+2023,Q3,AI-Powered Analytics,294,311
+2023,Q3,Security & Compliance,250,220
+2023,Q3,Hybrid Cloud Management,314,271
+2023,Q4,Cloud Storage,594,560
+2023,Q4,Compute Instances,408,405
+2023,Q4,AI-Powered Analytics,286,321
+2023,Q4,Security & Compliance,252,231
+2023,Q4,Hybrid Cloud Management,392,392
+2024,Q1,Cloud Storage,610,586
+2024,Q1,Compute Instances,430,400
+2024,Q1,AI-Powered Analytics,329,306
+2024,Q1,Security & Compliance,287,333
+2024,Q1,Hybrid Cloud Management,320,330
+2024,Q2,Cloud Storage,548,501
+2024,Q2,Compute Instances,379,377
+2024,Q2,AI-Powered Analytics,286,279
+2024,Q2,Security & Compliance,308,350
+2024,Q2,Hybrid Cloud Management,329,284
+2024,Q3,Cloud Storage,528,514
+2024,Q3,Compute Instances,492,487
+2024,Q3,AI-Powered Analytics,373,421
+2024,Q3,Security & Compliance,311,323
+2024,Q3,Hybrid Cloud Management,331,312
+2024,Q4,Cloud Storage,603,619
+2024,Q4,Compute Instances,397,371
+2024,Q4,AI-Powered Analytics,319,322
+2024,Q4,Security & Compliance,289,284
+2024,Q4,Hybrid Cloud Management,310,291
